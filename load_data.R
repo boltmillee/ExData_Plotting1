@@ -1,5 +1,5 @@
 ## This file is for loading the large dataset.
-filename <- "./data/household_power_consumption.txt"
+filename <- "c:/html/household_power_consumption.txt"
 data <- read.table(filename,
                    header = TRUE,
                    sep = ";",
